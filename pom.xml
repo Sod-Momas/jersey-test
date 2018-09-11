@@ -20,5 +20,6 @@
 		<module>jersey.boot</module>
 		<module>jersey.json</module>
 		<module>jersey.spring</module>
+		<module>jersey.springapp</module>
 	</modules>
 </project>
